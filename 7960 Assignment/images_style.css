@@ -1,0 +1,25 @@
+.image1
+{
+    border-radius:50%
+}
+.image1:hover{
+    transform: rotate(45deg);
+    }
+.image2
+{
+    border-radius:50%
+}
+.image2:hover{
+    transform: rotate(45deg);
+    }
+.image3
+{
+    border-radius:50%
+}
+.image3:hover{
+    transform: rotate(45deg);
+    }
+
+    p {
+        font-family:'Times New Roman', Times, serif, sans-serif;
+      }
